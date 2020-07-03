@@ -1,6 +1,5 @@
 
 
-</head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       <h1 id="YTfox-privacy-policy"><em>YTfox Privacy Policy</em></h1>
@@ -192,4 +191,4 @@
 
   
 
-</body></html>
+
