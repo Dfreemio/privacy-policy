@@ -1,7 +1,6 @@
 
 
-    <style class="anchorjs"></style><link rel="stylesheet" href="./YTfox Privacy Policy _ YTfox_files/style.css">
-  </head>
+</head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       <h1 id="YTfox-privacy-policy"><em>YTfox Privacy Policy</em></h1>
