@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<!-- saved from url=(0048)https://khang-nt.github.io/YTfox/privacy_policy -->
-<html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>YTfox Privacy Policy | YTfox</title>
-<meta name="generator" content="Jekyll v3.8.7">
-<meta property="og:title" content="YTfox Privacy Policy">
-<meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://khang-nt.github.io/YTfox/privacy_policy.html">
-<meta property="og:url" content="https://khang-nt.github.io/YTfox/privacy_policy.html">
-<meta property="og:site_name" content="YTfox">
-<script type="application/ld+json">
-{"@type":"WebPage","headline":"YTfox Privacy Policy","url":"https://khang-nt.github.io/YTfox/privacy_policy.html","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
 
     <style class="anchorjs"></style><link rel="stylesheet" href="./YTfox Privacy Policy _ YTfox_files/style.css">
   </head>
@@ -207,11 +190,7 @@
 
 
 
-      
-    </div>
-    <script src="./YTfox Privacy Policy _ YTfox_files/anchor.min.js.download" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-    
+
   
 
 </body></html>
